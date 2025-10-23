@@ -5,7 +5,7 @@ import pygame
 
 
 def main():
-    print("Starting asteroids!")
+    print("Starting Asteroids!")
 
 
 if __name__ == "__main__":
